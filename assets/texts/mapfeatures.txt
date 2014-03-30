@@ -1,0 +1,7 @@
+Sydney,-33.88,151.21,2000,City of Sydney,City;
+Melbourne,-37.8136, 144.9631,3000,City of Melbourne,City;
+Dandenong,-37.9810, 145.2150,3175,City of Dandenong,City;
+Chisholm Institute @311,-37.986211,145.213845,3175,311 Lonsdale Street Dandenong,Campus;
+Chisholm Institute Dandenong Campus,-37.975589,145.221976,3175,Stud Road Dandenong,Campus;
+Chisholm Institute Cranbourne Campus,-38.111371,145.292321,3177,New Holland Drive Cranbourne,Campus;
+Chisholm Institute Frankston Campus,-38.142624,145.126856,3199,Fletcher Road Frankston,Campus;
